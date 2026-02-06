@@ -9,7 +9,7 @@ Interests:
 - On-chain infrastructure  
 
 Most of what I build sits at the intersection of Crypto, AI, and automation.  
-constantly experimenting, shipping, and refining ideas.
+Constantly experimenting, shipping, and refining ideas.
 
 Website: https://ahsa.xyz
 
