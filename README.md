@@ -1,15 +1,15 @@
-# ahsa
+# I'm ahsa!
 
-building on solana
+Solana developer focused on building tools, systems, and experimental infrastructure.
 
-developer focused on onchain tools, automation, and experimental tech.  
-most projects sit at the intersection of crypto, ai, and trading infrastructure.
+interests:
+- solana tools + onchain experiments  
+- ai systems + autonomous agents  
+- trading and execution tooling  
+- onchain infrastructure  
 
-currently building:
-- solana tools + experiments
-- ai systems + agents
-- trading/execution tooling
-- onchain infrastructure
+Most of what I build sits at the intersection of Crypto, AI, and automation.  
+constantly experimenting, shipping, and refining ideas.
 
 website: https://ahsa.xyz
 
