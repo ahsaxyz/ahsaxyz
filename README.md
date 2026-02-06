@@ -1,4 +1,4 @@
-# I'm ahsa!
+# ahsa
 
 Solana developer focused on building tools, systems, and experimental infrastructure.
 
